@@ -78,7 +78,7 @@ const icons = {
   cilEnvelopeClosed
 }
 
-const assetPath = '/src/assets/'
+const assetPath = './public/assets/'
 
 let shallowProjects = ref([...projects])
 

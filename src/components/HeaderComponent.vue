@@ -8,7 +8,7 @@ const props = defineProps({
   }
 })
 
-const assetPath = '/src/assets/'
+const assetPath = './public/assets/'
 </script>
 
 <template>
