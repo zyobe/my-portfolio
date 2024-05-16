@@ -44,7 +44,7 @@ const props = defineProps({
       </div>
     </div>
 
-    <div class="p-2 border-t border-slate-200">
+    <div class="pt-2 border-t border-slate-200">
       <h3 class="mb-4 font-medium">Techstack used</h3>
       <ul class="flex flex-wrap gap-3.5">
         <li
