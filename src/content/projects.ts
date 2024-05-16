@@ -95,7 +95,7 @@ export const projects = [
           'This was my first project gaining experience with Nuxt and Typescript as well as libraries such as Radix and Vue I18n Plugin and testing with Vitest.'
       },
       {
-        paragraph: 'Project due to go live end of 2024'
+        paragraph: 'Project is due to go live end of 2024.'
       }
     ]
   },
@@ -130,7 +130,11 @@ export const projects = [
       },
       {
         paragraph:
-          'This was the first time learning to create Javascript tests, in this case using Jest.'
+          'Also there was a close working relationship with the Business Analyst, Product Owner, and backend development team to help achieve the goals.'
+      },
+      {
+        paragraph:
+          'This was my first opportunity to create Javascript tests on a project, in this case using Jest.'
       }
     ]
   },
@@ -193,7 +197,7 @@ export const projects = [
     details: [
       {
         paragraph:
-          'The first Big Commerce project I was worked on, this was a good challenge learning about and using a new platform and using mostly Javascript ES6'
+          'The first Big Commerce project I was worked on, this was a good challenge learning and using a new platform and using mostly Javascript ES6.'
       },
       {
         paragraph: 'After go live I handled client change requests and general maintenance.'
@@ -232,10 +236,11 @@ export const projects = [
       },
       {
         paragraph:
-          'This involved GET and POST of the api from the backend endpoint, then populatiing the product data into an HTML template to compare up to 4 products to be displayed in a modal overlay, also a fixed position compare bar provided the ability to add and remove products at the bottom of the page view.'
+          'This involved GET and POST of the api from the backend endpoint, then populating the product data into an HTML template to compare up to 4 products to be displayed in a modal overlay, also a fixed position compare bar provided the ability to add and remove products at the bottom of the page view.'
       },
       {
-        paragraph: 'Over the 3 years Euronics also required bugs to be resolved.'
+        paragraph:
+          'Over the 3 years Euronics also required general change requests to be implemented.'
       }
     ]
   },
@@ -262,12 +267,19 @@ export const projects = [
     details: [
       {
         paragraph:
-          'During my time working with Milk & More I assisted in building the recipes section.'
+          'During my time working with Milk & More I assisted in building a new section to provide site visitors with a range of recipes.'
       },
-      { paragraph: 'For images across the site the Cloudinary service was utilised.' },
       {
         paragraph:
-          'A calendar feature was built for customer accounts for picking the delivery dates.'
+          'Page templates were built to hold content for each recipe, a recipe listing page was also built.'
+      },
+      {
+        paragraph:
+          'This project introduced me to Cloudinary which was used images across the site to serve appropiate images, such as quality, size, cropping, etc configurations.'
+      },
+      {
+        paragraph:
+          'I contributed to the calendar feature which was built for customers who accessed their accounts to view and select various delivery dates.'
       }
     ]
   },
@@ -294,15 +306,19 @@ export const projects = [
     details: [
       {
         paragraph:
-          'Working on the Primark project allowed me to work very close with the designer. My task was to work through improving the accessibility across the site.'
+          'Working on the Primark project allowed me to work very close with the designer to implement the visually rich designs to showcase the fashion ranges.'
       },
       {
         paragraph:
-          'A new feature was built for a size guide to slide in on the product detail pages.'
+          'An area that required some enhancements was the site accessbility. Improvements were deployed over a few sprints, checking each area of improvement that I focued on was improving the accessbility score from reports ran in Popetech.'
       },
       {
         paragraph:
-          'Primark requested the ability to control the appearance on components from their large library that resided within their blogs. They wished to have access to various configurations, including buttons, links, font styles. These options were based on the combinations provided by the designer.'
+          'A new feature was built for a size guide to slide in on the product detail pages allowing the user to see a table of sizings for the clothing item.'
+      },
+      {
+        paragraph:
+          'Primark requested the ability to control the appearance on components from their large library that resided within their blogs. They wished to have access to various configurations, including buttons, links, font styles. These options were based on the combinations provided by the designer. Configuration options were then made available to Primark in the Amplience Content Platform.'
       }
     ]
   },
@@ -326,7 +342,12 @@ export const projects = [
       { name: 'Grunt', icon: icons.cibGrunt },
       { name: 'SAP Hybris', icon: icons.cibSap }
     ],
-    details: [{ paragraph: 'During a short time on MedicAnimal I worked on various bug fixes.' }]
+    details: [
+      {
+        paragraph:
+          'During a short spell on MedicAnimal I worked on various bug fixes. Team meetings were in progress on new feature developments until the project was cancelled.'
+      }
+    ]
   },
   {
     display: false,
@@ -392,7 +413,28 @@ export const projects = [
       { name: 'Grunt', icon: icons.cibGrunt },
       { name: 'SAP Hybris', icon: icons.cibSap }
     ],
-    details: [{ paragraph: 'building components before storybook was mainstream' }]
+    details: [
+      {
+        paragraph:
+          'Working on this huge opportunity to contribute to developing a project for SAP was an enjoyable challenge.'
+      },
+      {
+        paragraph:
+          'Components for the front end were produced in isolation so we could place them into the project where they were required. This was some time before applications such as Storybook were common place.'
+      },
+      {
+        paragraph:
+          'Closely working with the designer, we were able to identify any areas that would require any adjustments.'
+      },
+      {
+        paragraph:
+          'I learnt a lot from this project from closely working with backend developers to integrate the data into the application front end.'
+      },
+      {
+        paragraph:
+          'When the project was beginning to mature the team size reduced, I remained the only front end developer on the project to continue collaborating with backend developers for the future features.'
+      }
+    ]
   },
   {
     display: true,
@@ -425,7 +467,7 @@ export const projects = [
       },
       {
         paragraph:
-          'We worked closely with the client on this project, we worked with some of their team in the same office. One of the biggest challenges was the client testing the site across some very niche & old devices, which could be difficult to debug for.'
+          'We worked closely with the client on this project, working with some of their team in the same office space. One of the biggest challenges was the client testing the site across some very niche & old devices, which could be difficult to debug for.'
       }
     ]
   },
@@ -469,7 +511,12 @@ export const projects = [
       { name: 'Grunt', icon: icons.cibGrunt },
       { name: 'SAP Hybris', icon: icons.cibSap }
     ],
-    details: [{ paragraph: '' }]
+    details: [
+      {
+        paragraph:
+          'My time on the Costco project mostly involved maintaining the front end, applying new designs that were signed off for existinig features such as mega navs.'
+      }
+    ]
   },
   {
     display: true,
@@ -491,7 +538,12 @@ export const projects = [
       { name: 'Grunt', icon: icons.cibGrunt },
       { name: 'SAP Hybris', icon: icons.cibSap }
     ],
-    details: [{ paragraph: '' }]
+    details: [
+      {
+        paragraph:
+          'When working on the project for P&O, this largely included maintaining the front end, applying new designs across various components across the site.'
+      }
+    ]
   },
   {
     display: true,
