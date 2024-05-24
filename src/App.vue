@@ -101,7 +101,7 @@ useHead({
     {
       name: 'Details of projects I have worked on during my time as a Frontend Developer',
       content:
-        'A Frontend Developer who always attempts to learn new technologies in this fast paced, ever changbing industry. Open to discussing any Frontend related opportunities. I use Vue, Nuxt, Typescript, Javascript, Storybook, Gulp, Grunt, Webpack, jQuery, HTML, CSS, SASS, Tailwind, Bootstrap, Agile, Git.'
+        'An Essex based Frontend Developer who always attempts to learn new technologies in this fast paced, ever changbing industry. Open to discussing any Frontend related opportunities. I use Vue, Nuxt, Typescript, Javascript, Storybook, Gulp, Grunt, Webpack, jQuery, HTML, CSS, SASS, Tailwind, Bootstrap, Agile, Git.'
     }
   ]
 })
